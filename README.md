@@ -407,4 +407,4 @@ Planned:
 - Temporal reasoning improvements.
 - AI-FDE integration.
 
-USMOS should not be described as a finished production memory operating system yet. It is a local-first prototype with a growing SDK, test suite, and validation layer.
+USMOS is a idea prototype and not a finished project yet.

@@ -1,0 +1,8 @@
+{
+  "id": "minioffice",
+  "name": "MiniOffice Demo Plugin",
+  "version": "0.1.0",
+  "description": "Demo local plugin that asks MiniOffice questions through MemoryClient.",
+  "project_name": "MiniOffice",
+  "entrypoint": "src.plugins.minioffice.plugin:MiniOfficePlugin"
+}

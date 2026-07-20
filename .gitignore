@@ -1,0 +1,50 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+secrets.json
+
+# IDE
+.idea/
+.vscode/
+
+# USMOS private runtime data
+sandbox/data/
+sandbox/uploads/
+sandbox/snapshots/
+sandbox/benchmarks/
+sandbox/benchmark_reports/
+sandbox/book_validation_sets/
+sandbox/book_validation_reports/
+sandbox/current_project.json
+
+# Local databases
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
